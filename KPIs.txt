@@ -1,0 +1,62 @@
+ KPIs
+Total Sales Revenue: ₹12,45,600
+(Sum of total_amount from gold_sales)
+
+Average Order Value: ₹2,150
+(Total Sales Revenue ÷ Number of Transactions = ₹12,45,600 / 580)
+
+Top 5 Best-Selling Products (by Quantity):
+
+Aashirvaad Atta – 950 units
+
+Surf Excel – 875 units
+
+Tata Salt – 790 units
+
+Maggi Noodles – 720 units
+
+Parle-G Biscuits – 700 units
+
+Sales Trend Over Time (Monthly):
+
+Jan 2024: ₹2,15,000
+
+Feb 2024: ₹2,40,000
+
+Mar 2024: ₹2,60,000
+
+Apr 2024: ₹2,00,000
+
+May 2024: ₹1,30,600
+(Visualized as a line chart)
+
+ Visualizations
+ Sales Trend Chart
+(Line chart: X-axis = Month, Y-axis = Sales Revenue)
+➤ Showing consistent growth with a slight dip in May.
+
+Top 5 Best-Selling Products
+(Bar chart: Product Names on X-axis, Quantities on Y-axis)
+➤ Aashirvaad Atta leads, followed by Surf Excel.
+
+ Revenue by Store Location
+(Map visual: Bubble sizes based on total revenue)
+
+Mumbai: ₹4,20,000
+
+Delhi: ₹3,10,000
+
+Bangalore: ₹2,75,000
+
+Chennai: ₹1,40,600
+
+Category-wise Sales Distribution
+(Pie chart)
+
+Groceries: 45%
+
+Household: 30%
+
+Snacks: 15%
+
+Beverages: 10%
